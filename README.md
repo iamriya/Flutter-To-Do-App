@@ -18,3 +18,6 @@ A To-Do Flutter application to manage your TaskList.
 
 Please note that I was trying my hands on Flutter. Therefore, there are still things which are not fully implemented or tested.
 Suggestions and Improvements are most Welcomed!  :)
+
+## Liked it?
+Please star the repo if you liked it or if it helped you somehow! :)
